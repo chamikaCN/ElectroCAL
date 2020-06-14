@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.chamikanandasiri.electricitybillcalculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:5:5-32:19
+12        android:allowBackup="true"
+12-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\chamika nandasiri\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/logo"
+15-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:7:9-36
+16        android:label="@string/app_name"
+16-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:8:9-41
+17        android:supportsRtl="true"
+17-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:9:9-35
+18        android:testOnly="true" >
+19        <activity
+19-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:10:9-18:20
+20            android:name="com.example.chamikanandasiri.electricitybillcalculator.MainActivity"
+20-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:10:19-47
+21            android:screenOrientation="portrait"
+21-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:12:13-49
+22            android:theme="@style/AppTheme" >
+22-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:11:13-44
+23            <intent-filter>
+23-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:13:13-17:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:14:17-69
+24-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:14:25-66
+25
+26                <category android:name="android.intent.category.DEFAULT" />
+26-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:16:17-76
+26-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:16:27-73
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:19:9-22:47
+30            android:name="com.example.chamikanandasiri.electricitybillcalculator.SecondActivity"
+30-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:20:13-43
+31            android:screenOrientation="portrait"
+31-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:21:13-49
+32            android:theme="@style/AppTheme" />
+32-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:22:13-44
+33        <activity
+33-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:23:9-31:20
+34            android:name="com.example.chamikanandasiri.electricitybillcalculator.WelcomeActivity"
+34-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:23:19-50
+35            android:screenOrientation="portrait"
+35-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:25:13-49
+36            android:theme="@style/Theme.AppCompat.NoActionBar" >
+36-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:24:13-63
+37            <intent-filter>
+37-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:26:13-30:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:14:17-69
+38-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:14:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:29:17-77
+40-->F:\Learning\Projects\AndroidStudioProjects\ElectricitybillCalculator\app\src\main\AndroidManifest.xml:29:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

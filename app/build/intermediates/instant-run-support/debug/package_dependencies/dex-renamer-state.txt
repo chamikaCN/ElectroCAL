@@ -1,0 +1,25 @@
+#Mon Mar 19 15:17:56 IST 2018
+renamed.7=classes5.dex
+renamed.6=classes6.dex
+renamed.5=classes3.dex
+renamed.4=classes7.dex
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes8.dex
+renamed.0=classes4.dex
+base.7=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c6112c6394cb722a90b882798df21a8930bf06cc
+base.6=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_3a94b423625a1192e56c0cc081531f1bdfc6d93a
+base.5=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_45671267fdfb26ef67b7491393daede55f78ba47
+base.4=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_8352a16e064629bb1834754206cc3c290287a370
+base.3=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0cfe1a1250a7f51c582140f3e8b04ea16c1d7b89
+base.2=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_24b7ceb2f4ab38a225169fc5693d5612c346312a
+base.1=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_f53046dcaf3933baa4459936417922bc597670df
+base.0=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9b03201a664b0241b6bc6be97530b452bd243e6a
+file.7=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c6112c6394cb722a90b882798df21a8930bf06cc\\classes.dex
+file.6=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_3a94b423625a1192e56c0cc081531f1bdfc6d93a\\classes.dex
+file.5=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_45671267fdfb26ef67b7491393daede55f78ba47\\classes.dex
+file.4=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_8352a16e064629bb1834754206cc3c290287a370\\classes.dex
+file.3=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0cfe1a1250a7f51c582140f3e8b04ea16c1d7b89\\classes.dex
+file.2=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_24b7ceb2f4ab38a225169fc5693d5612c346312a\\classes.dex
+file.1=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_f53046dcaf3933baa4459936417922bc597670df\\classes.dex
+file.0=F\:\\Learning\\ElectricitybillCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9b03201a664b0241b6bc6be97530b452bd243e6a\\classes.dex
