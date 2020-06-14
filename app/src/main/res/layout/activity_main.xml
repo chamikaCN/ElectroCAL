@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Layout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/Txt1"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:hint="@string/no_of_days"
+        android:inputType="number"
+        android:textColorLink="@color/colorPrimaryLight"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/Txt2"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:ems="10"
+        android:hint="@string/no_of_units_consumed"
+        android:inputType="number"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Txt2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="65dp"
+        android:background="@color/colorPrimaryLight"
+        android:shadowColor="@color/colorPrimaryLight"
+        android:text="@string/calculate"
+        android:textColor="#FFFFFF" />
+</RelativeLayout>
+
+
